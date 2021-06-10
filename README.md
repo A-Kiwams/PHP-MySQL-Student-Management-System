@@ -1,3 +1,3 @@
-#HTML5 WEBSITE STRUCTURE
+# Student Management System
 
-A template for a website layout based on html5
+Using PHP (CodeIgniter framework), Bootstrap and MySQL
